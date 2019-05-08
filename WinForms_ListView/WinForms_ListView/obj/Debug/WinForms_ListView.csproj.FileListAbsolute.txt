@@ -1,0 +1,9 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\bin\Debug\WinForms_ListView.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\bin\Debug\WinForms_ListView.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\bin\Debug\WinForms_ListView.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\obj\Debug\WinForms_ListView.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\obj\Debug\WinForms_ListView.Form1.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\obj\Debug\WinForms_ListView.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\obj\Debug\WinForms_ListView.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\obj\Debug\WinForms_ListView.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\WinForms_ListView\WinForms_ListView\WinForms_ListView\obj\Debug\WinForms_ListView.pdb
